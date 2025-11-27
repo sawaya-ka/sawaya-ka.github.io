@@ -8,6 +8,9 @@ redirect_from:
   - /home.html
 ---
 
+<span style="color: red; ">I am currently seeking a postdoctoral position starting in April 2027 or later, 
+particularly in high-dimensional statistics, statistical machine learning, and related areas.</span>
+
 # About
 ---
 
