@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "Home"
+author_profile: true
+redirect_from: 
+  - /home/
+  - /home.html
+---
+
 # About
 
 I am a second-year PhD student in statistics at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), advised by [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/). 
