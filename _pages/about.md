@@ -9,15 +9,18 @@ redirect_from:
 ---
 
 # About
+---
 
 I am a second-year PhD student in statistics at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), advised by [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/). 
 
 # Research Interests
+---
 - high-dimensional statistics
 - statistical inference
 - robust statistics 
 
 # Education
+---
 **Ph.D. in Economics**  
 *The University of Tokyo,  
 Apr 2024-present*
