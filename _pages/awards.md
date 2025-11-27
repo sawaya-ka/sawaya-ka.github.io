@@ -13,11 +13,11 @@ author_profile: true
   *ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI", Japan Science and Technology Agency. (4,300,000 JPY)*
 
 
-- 2022/04-2025/3 **日本学術振興会特別研究員DC1**,  JSPS.
+- 2024/04-2027/3 **日本学術振興会特別研究員DC1**,  JSPS.
 
   *Research Fellow DC1, Japan Society for the Promotion of Science. (2,400,000 JPY)*
 
-- 2021/06-2025/3 **数物フロンティア国際卓越大学院プログラム**, 東京大学.
+- 2022/10-2027/3 **数物フロンティア国際卓越大学院プログラム**, 東京大学.
 
   *World-leading Innovative Graduate Study for Frontiers of Mathematical Sciences and Physics, The University of Tokyo.*
   
