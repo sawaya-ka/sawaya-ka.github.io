@@ -19,8 +19,8 @@ I am a second-year PhD student in statistics at [The University of Tokyo](https:
 # Research Interests
 ---
 - high-dimensional statistics
-- statistical inference
-- robust statistics 
+- uncertainty quantification
+- modern ML theory 
 
 # Education
 ---
