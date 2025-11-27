@@ -26,7 +26,7 @@ I am a second-year PhD student in statistics at [The University of Tokyo](https:
 ---
 **Ph.D. in Economics**  
 *The University of Tokyo,  
-Apr 2024-present*
+Apr 2024-Mar 2027 (expected)*
 
 **M.S. in Economics**  
 *The University of Tokyo,  
