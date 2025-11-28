@@ -20,7 +20,7 @@ author_profile: true
 - **Econometrics and Statistics**, Tokyo, Japan, Aug 1st.
 - **Youth in High-Dimensions: Recent Progress in Machine Learning, High-Dimensional Statistics, and Inference**, Trieste, Italy, May 29th.
 
-## Domestic
+## Domestic (Japanese)
 ---
 ### 2025
 - **第28回情報論的学習理論ワークショップ（IBIS2025）**, 那覇, 11月12日.
