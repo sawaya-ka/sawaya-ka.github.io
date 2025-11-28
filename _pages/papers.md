@@ -14,4 +14,4 @@ author_profile: true
 ---
 - Precise Asymptotics for Linear Rank Regression (with Y. Uematsu and M. Imaizumi).
 - Provable False Discovery Rate Control for Deep Feature Selection (solo work, under review).
-- Precise Gradient Descent Training Dynamics for Classification (with T. Koriyama, Q. Han, and M. Imaizumi).
+- Precise Gradient Descent Dynamics for NN Classification (with T. Koriyama, Q. Han, and M. Imaizumi).
