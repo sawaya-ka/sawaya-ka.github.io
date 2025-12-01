@@ -17,8 +17,8 @@ main:
   - title: "Awards & Grants"
     url: /awards/    
 
-  - title: "Misc"
-    url: /misc/
+  #- title: "Misc"
+  #  url: /misc/
 
   #- title: "Teaching"
   #  url: /teaching/    
