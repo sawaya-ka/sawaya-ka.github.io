@@ -24,7 +24,7 @@ author_profile: true
 
 ## Awards
 ---
-- [最優秀報告賞](https://sites.google.com/view/keiryo-keizai-kenkyu/%E5%84%AA%E7%A7%80%E5%A0%B1%E5%91%8A%E8%B3%9E?authuser=0), 関西計量経済学研究会, 2026/1.
+- [最優秀報告賞](https://sites.google.com/view/keiryo-keizai-kenkyu/%E5%84%AA%E7%A7%80%E5%A0%B1%E5%91%8A%E8%B3%9E?authuser=0), 2025年度関西計量経済学研究会, 2026/1.
 
   *Best Presentation Award, Kansai Econometrics Meeting, Jan. 2026. (1/11)* 
 
@@ -39,7 +39,7 @@ author_profile: true
 
   *Best Presentation Award, Japanese Joint Statistical Meeting 2023, Sep 2023. (1/26)*
 
-- [優秀報告賞](https://sites.google.com/view/keiryo-keizai-kenkyu/%E5%84%AA%E7%A7%80%E5%A0%B1%E5%91%8A%E8%B3%9E?authuser=0), 関西計量経済学研究会, 2023/1.
+- [優秀報告賞](https://sites.google.com/view/keiryo-keizai-kenkyu/%E5%84%AA%E7%A7%80%E5%A0%B1%E5%91%8A%E8%B3%9E?authuser=0), 2022年度関西計量経済学研究会, 2023/1.
 
   *Excellent Presentation Award, Kansai Econometrics Meeting, Jan. 2023. (2/8)* 
 
