@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Publications
+---
 
 - **Sawaya, K.** (2026), "Provable FDR Control for Deep Feature Selection: Deep MLPs and Beyond." *AISTATS (to appear)*, [[arXiv](https://arxiv.org/abs/2512.04696)].
 
