@@ -7,6 +7,9 @@ author_profile: true
 
 ## International 
 ---
+### 2026
+- **29th International Conference on Artificial Intelligence and Statistics (AISTATS2026)**, Tangier, Morocco, May 2-5.
+- **Workshop on Functional Inference and Machine Intelligence**, Tokyo, Japan, Mar 2-5.
 
 ### 2025
 - **IMS International Conference on Statistics and Data Science (ICSDS)**, Seville, Spain, Dec 17th.
