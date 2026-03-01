@@ -35,8 +35,8 @@ Apr 2022-Mar 2024*
 *Tohoku University,  
 Apr 2018-Mar 2022*
 
-<details>
+<!-- <details>
   <summary>Note for non-Japanese readers</summary>
 
   In Japan, very few universities have standalone departments of statistics or data science, so most statisticians sit in economics, mathematics, CS, or biology departments. My program is housed in the Faculty of Economics but hosts the largest group of statisticians at the University of Tokyo.
-</details>
+</details> -->
