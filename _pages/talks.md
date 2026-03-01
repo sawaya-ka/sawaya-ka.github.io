@@ -9,7 +9,7 @@ author_profile: true
 ---
 ### 2026
 - **29th International Conference on Artificial Intelligence and Statistics (AISTATS2026)**, Tangier, Morocco, May 2-5.
-- **Workshop on Functional Inference and Machine Intelligence**, Tokyo, Japan, Mar 2-5.
+- **Workshop on Functional Inference and Machine Intelligence**, Tokyo, Japan, Mar 4th.
 
 ### 2025
 - **IMS International Conference on Statistics and Data Science (ICSDS)**, Seville, Spain, Dec 17th.
@@ -26,7 +26,7 @@ author_profile: true
 ## Domestic (Japanese)
 ---
 ### 2026
-- **第2回：計算技術による学際的統計解析ワークショップ**, 統計数理研究所, 2月16日.
+- **第2回計算技術による学際的統計解析ワークショップ**, 統計数理研究所, 2月16日.
 - **2025年度関西計量経済学研究会**, 宮崎公立大学, 1月10日.
 
 ### 2025
