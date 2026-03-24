@@ -18,4 +18,4 @@ author_profile: true
 ## Work in Progress
 ---
 - Precise Asymptotics for Linear Rank Regression (with Y. Uematsu and M. Imaizumi).
-- Precise Gradient Descent Dynamics for NN Classification (with T. Koriyama, Q. Han, and M. Imaizumi).
+- Sample-Size-Free Normal Approximation under Multi-Index Models via Orthogonal Symmetry.
