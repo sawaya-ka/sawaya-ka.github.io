@@ -35,6 +35,16 @@ Apr 2022-Mar 2024*
 *Tohoku University,  
 Apr 2018-Mar 2022*
 
+# News
+---
+May 2026: Attended AISTATS 2026 in Tangier, Morocco, and presented a poster.
+
+June 2026: Will attend the ICTP-INdAM-SLMath Summer Graduate School for Machine Learning in Trieste, Italy, and present a poster.
+
+June/July 2026: Will visit Professor Merle Behr at the University of Regensburg for one week and give a seminar talk.
+
+July 2026: Will attend the IMS Annual Meeting in Salzburg, Austria, and give an invited oral presentation.
+
 <!-- <details>
   <summary>Note for non-Japanese readers</summary>
 
