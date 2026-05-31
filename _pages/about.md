@@ -37,13 +37,13 @@ Apr 2018-Mar 2022*
 
 # News
 ---
-May 2026: Attended AISTATS 2026 in Tangier, Morocco, and presented a poster.
+May 2026: Attended [AISTATS 2026](https://virtual.aistats.org/) in Tangier, Morocco, and presented a poster.
 
-June 2026: Will attend the ICTP-INdAM-SLMath Summer Graduate School for Machine Learning in Trieste, Italy, and present a poster.
+June 2026: Will attend the [ICTP-INdAM-SLMath Summer Graduate School for Machine Learning](https://indico.ictp.it/event/11148) in Trieste, Italy, and present a poster.
 
-June/July 2026: Will visit Professor Merle Behr at the University of Regensburg for one week and give a seminar talk.
+June/July 2026: Will visit Professor [Merle Behr](https://merlebehr.org/) at the University of Regensburg for one week and give a seminar talk.
 
-July 2026: Will attend the IMS Annual Meeting in Salzburg, Austria, and give an invited oral presentation.
+July 2026: Will attend the [IMS Annual Meeting](https://ims2026.github.io/IMS2026/) in Salzburg, Austria, and give an invited oral presentation.
 
 <!-- <details>
   <summary>Note for non-Japanese readers</summary>
