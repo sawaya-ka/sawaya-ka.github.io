@@ -8,7 +8,9 @@ author_profile: true
 ## International 
 ---
 ### 2026
-- **29th International Conference on Artificial Intelligence and Statistics (AISTATS2026)**, Tangier, Morocco, May 2-5.
+- **IMS Annual Meeting 2026**, Salzburg, Austria, July 8th.
+- **ICTP-INdAM-SLMath Summer Graduate School for Machine Learning**, Trieste, Italy, June 24th.
+- **29th International Conference on Artificial Intelligence and Statistics (AISTATS2026)**, Tangier, Morocco, May 4th.
 - **Workshop on Functional Inference and Machine Intelligence**, Tokyo, Japan, Mar 4th.
 
 ### 2025
