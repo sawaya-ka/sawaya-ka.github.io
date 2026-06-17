@@ -13,7 +13,7 @@ redirect_from:
 # About
 ---
 
-I am a second-year PhD student in statistics at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), advised by [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/). 
+I am a third-year PhD student in statistics at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), advised by [Masaaki Imaizumi](https://sites.google.com/view/mimaizumi/). 
 
 # Research Interests
 ---
