@@ -41,11 +41,11 @@ May 2026: Attended [AISTATS 2026](https://virtual.aistats.org/) in Tangier, Moro
 
 June 2026: Our paper, "High-Dimensional Single-Index Models: Link Estimation and Marginal Inference" (with Y. Uematsu and M. Imaizumi), has been accepted by *Information and Inference: A Journal of the IMA*.
 
-June 2026: Will attend the [ICTP-INdAM-SLMath Summer Graduate School for Machine Learning](https://indico.ictp.it/event/11148) in Trieste, Italy, and present a poster.
+June 2026: Attended the [ICTP-INdAM-SLMath Summer Graduate School for Machine Learning](https://indico.ictp.it/event/11148) in Trieste, Italy, and presented a poster.
 
 June/July 2026: Visiting Professor [Merle Behr](https://merlebehr.org/) at the University of Regensburg for one week and give a seminar talk.
 
-July 2026: Attended the [IMS Annual Meeting](https://ims2026.github.io/IMS2026/) in Salzburg, Austria, and give an invited oral presentation.
+July 2026: Will attend the [IMS Annual Meeting](https://ims2026.github.io/IMS2026/) in Salzburg, Austria, and give an invited oral presentation.
 
 <!-- <details>
   <summary>Note for non-Japanese readers</summary>
