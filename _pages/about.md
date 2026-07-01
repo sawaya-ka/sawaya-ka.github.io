@@ -43,9 +43,9 @@ June 2026: Our paper, "High-Dimensional Single-Index Models: Link Estimation and
 
 June 2026: Will attend the [ICTP-INdAM-SLMath Summer Graduate School for Machine Learning](https://indico.ictp.it/event/11148) in Trieste, Italy, and present a poster.
 
-June/July 2026: Will visit Professor [Merle Behr](https://merlebehr.org/) at the University of Regensburg for one week and give a seminar talk.
+June/July 2026: Visiting Professor [Merle Behr](https://merlebehr.org/) at the University of Regensburg for one week and give a seminar talk.
 
-July 2026: Will attend the [IMS Annual Meeting](https://ims2026.github.io/IMS2026/) in Salzburg, Austria, and give an invited oral presentation.
+July 2026: Attended the [IMS Annual Meeting](https://ims2026.github.io/IMS2026/) in Salzburg, Austria, and give an invited oral presentation.
 
 <!-- <details>
   <summary>Note for non-Japanese readers</summary>
