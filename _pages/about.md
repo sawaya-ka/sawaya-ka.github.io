@@ -19,7 +19,7 @@ I am a third-year PhD student in statistics at [The University of Tokyo](https:/
 ---
 - high-dimensional statistics
 - uncertainty quantification
-- modern ML theory 
+- modern machine learning theory 
 
 # Education
 ---
