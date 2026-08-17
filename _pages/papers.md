@@ -17,4 +17,4 @@ author_profile: true
 ## Work in Progress
 ---
 - Precise Asymptotics for Linear Rank Regression (with Y. Uematsu and M. Imaizumi).
-- Sample-Size-Free Normal Approximation under Multi-Index Models via Orthogonal Symmetry.
+- High-Dimensional Gaussian Approximation via Group Structure.
