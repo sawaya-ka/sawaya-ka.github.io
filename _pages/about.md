@@ -37,15 +37,19 @@ Apr 2018-Mar 2022*
 
 # News
 ---
-May 2026: Attended [AISTATS 2026](https://virtual.aistats.org/) in Tangier, Morocco, and presented a poster.
+August 2026: Our paper, "Moment-Based Adjustments of Statistical Inference in High-Dimensional Generalized Linear Models" (with Y. Uematsu and M. Imaizumi), has been accepted by *Electronic Journal of Statistics*.
 
-June 2026: Our paper, "High-Dimensional Single-Index Models: Link Estimation and Marginal Inference" (with Y. Uematsu and M. Imaizumi), has been accepted by *Information and Inference: A Journal of the IMA*.
-
-June 2026: Attended the [ICTP-INdAM-SLMath Summer Graduate School for Machine Learning](https://indico.ictp.it/event/11148) in Trieste, Italy, and presented a poster.
+July 2026: Attended the [IMS Annual Meeting](https://ims2026.github.io/IMS2026/) in Salzburg, Austria, and gave an invited oral presentation.
 
 June/July 2026: Visited Professor [Merle Behr](https://merlebehr.org/) at the University of Regensburg for one week and gave a seminar talk.
 
-July 2026: Attended the [IMS Annual Meeting](https://ims2026.github.io/IMS2026/) in Salzburg, Austria, and gave an invited oral presentation.
+June 2026: Attended the [ICTP-INdAM-SLMath Summer Graduate School for Machine Learning](https://indico.ictp.it/event/11148) in Trieste, Italy, and presented a poster.
+
+June 2026: Our paper, "High-Dimensional Single-Index Models: Link Estimation and Marginal Inference" (with Y. Uematsu and M. Imaizumi), has been accepted by *Information and Inference: A Journal of the IMA*.
+
+May 2026: Attended [AISTATS 2026](https://virtual.aistats.org/) in Tangier, Morocco, and presented a poster.
+
+
 
 <!-- <details>
   <summary>Note for non-Japanese readers</summary>
