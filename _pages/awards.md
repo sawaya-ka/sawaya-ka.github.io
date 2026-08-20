@@ -17,45 +17,45 @@ author_profile: true
 
 - 2024/04-2027/3 *Grant-in-Aid Research Fellow DC1*, Japan Society for the Promotion of Science. (2,400,000 JPY)
 
-  **日本学術振興会特別研究員DC1**,  JSPS.
+  <span style="color: lightgray;">**日本学術振興会特別研究員DC1**,  JSPS.</span>
 
 
 
 - 2022/10-2027/3 *World-leading Innovative Graduate Study for Frontiers of Mathematical Sciences and Physics*, The University of Tokyo.
 
-  **数物フロンティア国際卓越大学院プログラム**, 東京大学.
+  <span style="color: lightgray;">**数物フロンティア国際卓越大学院プログラム**, 東京大学.</span>
   
 
 ## Awards
 ---
 - *Best Presentation Award*, Kansai Econometrics Meeting, Jan 2026. (1/11).
 
-  [最優秀報告賞](https://sites.google.com/view/keiryo-keizai-kenkyu/%E5%84%AA%E7%A7%80%E5%A0%B1%E5%91%8A%E8%B3%9E?authuser=0), 2025年度関西計量経済学研究会, 2026/1.
+  <span style="color: lightgray;">[最優秀報告賞](https://sites.google.com/view/keiryo-keizai-kenkyu/%E5%84%AA%E7%A7%80%E5%A0%B1%E5%91%8A%E8%B3%9E?authuser=0), 2025年度関西計量経済学研究会, 2026/1.</span>
 
 - *Excellent Student Presentation Award Finalist*, IBIS2025, Nov 2025. (10/258).
   
-  [学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2025/awards/), 第28回情報論的学習理論ワークショップ, 2025/11.
+  <span style="color: lightgray;">[学生優秀プレゼンテーション賞ファイナリスト](https://ibisml.org/ibis2025/awards/), 第28回情報論的学習理論ワークショップ, 2025/11.</span>
 
 
 - *ISI Tokyo Memorial Encouragement Award*, Japan Statistical Society, Sep 2025.
   
-  [ISI東京大会記念奨励賞](https://www.jss.gr.jp/wp-content/uploads/K205.pdf), 日本統計学会, 2025/9.
+  <span style="color: lightgray;">[ISI東京大会記念奨励賞](https://www.jss.gr.jp/wp-content/uploads/K205.pdf), 日本統計学会, 2025/9.</span>
 
 
 - *Best Presentation Award*, Japanese Joint Statistical Meeting 2023, Sep 2023. (1/26)
   
-  [最優秀報告賞](https://www.jfssa.jp/meeting/page-922/)​, 2023年度統計関連学会連合大会, 2023/9.
+  <span style="color: lightgray;">[最優秀報告賞](https://www.jfssa.jp/meeting/page-922/)​, 2023年度統計関連学会連合大会, 2023/9.</span>
 
 
 - *Excellent Presentation Award, Kansai Econometrics Meeting, Jan 2023. (2/8)* 
   
-  [優秀報告賞](https://sites.google.com/view/keiryo-keizai-kenkyu/%E5%84%AA%E7%A7%80%E5%A0%B1%E5%91%8A%E8%B3%9E?authuser=0), 2022年度関西計量経済学研究会, 2023/1.
+  <span style="color: lightgray;">[優秀報告賞](https://sites.google.com/view/keiryo-keizai-kenkyu/%E5%84%AA%E7%A7%80%E5%A0%B1%E5%91%8A%E8%B3%9E?authuser=0), 2022年度関西計量経済学研究会, 2023/1.</span>
 
 - *Excellent Student Presentation Award, 16th Japan Statistical Society Spring Meeting, Mar 2022. (5/34)*
   
-  [学生優秀発表賞](https://www.jss.gr.jp/wp-content/uploads/spring2021_report.pdf), 第16回日本統計学会春季集会, 2022/3. 
+  <span style="color: lightgray;">[学生優秀発表賞](https://www.jss.gr.jp/wp-content/uploads/spring2021_report.pdf), 第16回日本統計学会春季集会, 2022/3. </span>
 
 
 - *Japan Statistical Society Certificate Director's Award*, 16th Japan Statistical Society Spring Meeting, Mar 2022.
   
-  統計検定センター長賞, 第15回日本統計学会春季集会, 2022/3.
+  <span style="color: lightgray;">統計検定センター長賞, 第15回日本統計学会春季集会, 2022/3.</span>
