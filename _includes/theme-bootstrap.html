@@ -1,0 +1,90 @@
+<meta name="color-scheme" content="light dark">
+<meta id="theme-color-meta" name="theme-color" content="#ffffff">
+
+<style>
+  /*
+   * main.css が届く前にも、ブラウザーのcanvasを
+   * 実際のテーマと同じ色で塗る。
+   */
+  html,
+  body {
+    background-color: #ffffff;
+  }
+
+  html[data-theme="dark"],
+  html[data-theme="dark"] body {
+    background-color: #474747;
+  }
+
+  html {
+    color-scheme: light;
+  }
+
+  html[data-theme="dark"] {
+    color-scheme: dark;
+  }
+</style>
+
+<script>
+  (function () {
+    var root = document.documentElement;
+    var darkMedia = window.matchMedia
+      ? window.matchMedia("(prefers-color-scheme: dark)")
+      : null;
+
+    function getSavedTheme() {
+      try {
+        return window.localStorage.getItem("theme");
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function shouldUseDarkTheme() {
+      var savedTheme = getSavedTheme();
+
+      if (savedTheme === "dark") {
+        return true;
+      }
+
+      if (savedTheme === "light") {
+        return false;
+      }
+
+      /* 未設定または "system" ならOS設定を使う */
+      return Boolean(darkMedia && darkMedia.matches);
+    }
+
+    function syncThemeColor() {
+      var isDark = root.getAttribute("data-theme") === "dark";
+      var meta = document.getElementById("theme-color-meta");
+
+      if (meta) {
+        meta.setAttribute(
+          "content",
+          isDark ? "#474747" : "#ffffff"
+        );
+      }
+    }
+
+    /*
+     * bodyや外部CSSの読み込みを待たず、ここで即座に確定する。
+     */
+    if (shouldUseDarkTheme()) {
+      root.setAttribute("data-theme", "dark");
+    } else {
+      root.removeAttribute("data-theme");
+    }
+
+    syncThemeColor();
+
+    /*
+     * ページ表示後にテーマ切替ボタンがdata-themeを変更した場合も、
+     * ブラウザーUIのtheme-colorを同期する。
+     */
+    new MutationObserver(syncThemeColor).observe(root, {
+      attributes: true,
+      attributeFilter: ["data-theme"]
+    });
+  })();
+</script>
