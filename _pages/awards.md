@@ -10,7 +10,7 @@ author_profile: true
 
 - 2024/10-2027/3  *ACT-X "Innovations in Mathematical and Information Sciences for Building Next-generation AI"*, Japan Science and Technology Agency. (4,300,000 JPY)
 
-  **ACT-X「次世代AIを築く数理・情報科学の革新」**,  JST. 
+  <span style="color: gray;">**ACT-X「次世代AIを築く数理・情報科学の革新」**,  JST. </span>
 
   
 
