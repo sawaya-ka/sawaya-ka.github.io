@@ -182,20 +182,6 @@ button:focus-visible {
   outline-offset: 3px;
 }
 
-@media screen and (min-width: 925px) {
-  .author__avatar img {
-    width: 168px;
-    height: 168px;
-    max-width: 168px;
-    padding: 0 !important;
-    object-fit: cover;
-    object-position: center 32%;
-    border: 0 !important;
-    border-radius: 50%;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
-  }
-}
-
 @media screen and (max-width: 760px) {
   .research-grid {
     grid-template-columns: 1fr;
