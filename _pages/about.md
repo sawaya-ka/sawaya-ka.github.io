@@ -10,6 +10,13 @@ redirect_from:
 
 <span style="color: MediumSeaGreen; ">I am currently seeking a **postdoctoral position** starting in **April 2027 or later**!</span>
 
+<a href="/files/Kazuma_Sawaya_CV.pdf"
+   class="btn btn--primary"
+   target="_blank"
+   rel="noopener">
+  <i class="fas fa-file-pdf"></i> View CV
+</a>
+
 # About
 ---
 
