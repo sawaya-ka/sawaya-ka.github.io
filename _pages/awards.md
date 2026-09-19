@@ -58,4 +58,4 @@ author_profile: true
 
 - *Japan Statistical Society Certificate Director's Award*, 16th Japan Statistical Society Spring Meeting, Mar 2022.
   
-  統計検定センター長賞, 第15回日本統計学会春季集会, 2022/3.
+  統計検定センター長賞, 第16回日本統計学会春季集会, 2022/3.
