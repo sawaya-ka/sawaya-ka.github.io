@@ -39,7 +39,7 @@ author_profile: true
 
 - *ISI Tokyo Memorial Encouragement Award*, Japan Statistical Society, Sep 2025.
   
-  [ISI東京大会記念奨励賞](https://www.jss.gr.jp/wp-content/uploads/K205.pdf), 日本統計学会, 2025/9.
+  [第4回ISI東京大会記念奨励賞](https://www.jss.gr.jp/wp-content/uploads/K205.pdf), 日本統計学会, 2025/9.
 
 
 - *Best Presentation Award*, Japanese Joint Statistical Meeting 2023, Sep 2023. (1/26)
