@@ -8,6 +8,8 @@ author_profile: true
 ## International 
 ---
 ### 2026
+- **IMS International Conference on Statistics and Data Science (ICSDS)**, Split, Croatia, Dec 15-18th.
+- **Frontiers in Statistical Machine Learning (FSML) 2026**, Split, Croatia, Dec 14th.
 - **IMS Annual Meeting 2026**, Salzburg, Austria, July 8th.
 - **ICTP-INdAM-SLMath Summer Graduate School for Machine Learning**, Trieste, Italy, June 24th.
 - **29th International Conference on Artificial Intelligence and Statistics (AISTATS2026)**, Tangier, Morocco, May 4th.
