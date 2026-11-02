@@ -57,7 +57,7 @@ Apr 2018-Mar 2022*
 - May 2026: Attended [AISTATS 2026](https://virtual.aistats.org/) in Tangier, Morocco, and presented a poster.
 
 ## Service
-Reviewer for NeurIPS 2026 (4), AISTATS 2026 (3).
+Reviewer for AISTATS 2027 (4), NeurIPS 2026 (4), AISTATS 2026 (3).
 
 <!-- <details>
   <summary>Note for non-Japanese readers</summary>
